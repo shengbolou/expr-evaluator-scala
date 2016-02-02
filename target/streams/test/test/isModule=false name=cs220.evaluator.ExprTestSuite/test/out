@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mExprTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Number class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Var class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Add class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Sub class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Mul class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Div class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Assign class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- The Program class exists[0m[0m
+[0m[[0minfo[0m] [0m[32m- Add expression generates the correct infix string form[0m[0m
+[0m[[0minfo[0m] [0m[32m- Sub expression generates the correct infix string form[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mul expression generates the correct infix string form[0m[0m
+[0m[[0minfo[0m] [0m[32m- Div expression generates the correct infix string form[0m[0m
+[0m[[0minfo[0m] [0m[32m- Complicated expression generates the correct infix string form[0m[0m

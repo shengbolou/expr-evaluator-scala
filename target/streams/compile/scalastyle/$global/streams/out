@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0mscalastyle using config /home/shengbolou/28530995/expr-evaluator-student/scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/Main.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/Main.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/parser/Parser.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/parser/Parser.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Expr.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Expr.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Evaluator.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Evaluator.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Environment.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Environment.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Value.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/shengbolou/28530995/expr-evaluator-student/src/main/scala/cs220/evaluator/Value.scala[0m
+[0m[[0minfo[0m] [0mProcessed 6 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 0 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 6 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: /home/shengbolou/28530995/expr-evaluator-student/target[0m

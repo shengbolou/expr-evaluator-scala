@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mStudent28530995TestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- extend method works correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- lookup method works correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- Add expression works correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- Sub expression works correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- Mul expression works correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- Div expression works correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- Assign expression works correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- evalVar method exception test[0m[0m
+[0m[[0minfo[0m] [0m[32m- Evaluation of expressions NO.2 [0m[0m
+[0m[[0minfo[0m] [0m[32m- Evaluation of expressions NO.3 [0m[0m

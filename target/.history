@@ -1,0 +1,40 @@
+compile
+test
+scalastyle
+ls
+compile
+test
+scalastyle
+compile
+test
+scalastyle
+compile
+test
+scalastyle
+compile
+test
+scalastyle
+run
+run/eps
+run eps/01.e
+ls
+run eps/02.e
+run eps/03.e
+run eps/04.e
+run eps/05.e
+run eps/02.e
+run eps/03.e
+compile
+run eps/03.e
+console
+compile
+run eps/03.e
+scalastyle
+ls
+compile
+test
+scalastyle
+console
+compile
+compile~
+~compile 

@@ -1,0 +1,8 @@
+#Successful Tests
+#Wed Mar 25 12:56:36 EDT 2015
+cs220.evaluator.EvaluatorTestSuite=1427302596310
+cs220.evaluator.ExprTestSuite=1427302596353
+cs220.evaluator.ValueTestSuite=1427302596253
+cs220.evaluator.EnvironmentTestSuite=1427302596326
+cs220.Student28530995TestSuite=1427302596286
+cs220.parser.ExprParserTestSuite=1427302596317

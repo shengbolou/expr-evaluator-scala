@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mEnvironmentTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- An empty environment is empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- An empty environment extended by one binding has length 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- Extending an environment with (v -> e) will return e on lookup[0m[0m
+[0m[[0minfo[0m] [0m[32m- An environment has the correct string representation[0m[0m

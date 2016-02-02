@@ -1,0 +1,18 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(cs220.Student28530995TestSuite, org.scalatest.tools.Framework$$anon$1@4d9c674e, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(cs220.evaluator.EvaluatorTestSuite, org.scalatest.tools.Framework$$anon$1@4d9c674e, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(cs220.evaluator.ValueTestSuite, org.scalatest.tools.Framework$$anon$1@4d9c674e, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(cs220.parser.ExprParserTestSuite, org.scalatest.tools.Framework$$anon$1@4d9c674e, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(cs220.evaluator.ExprTestSuite, org.scalatest.tools.Framework$$anon$1@4d9c674e, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(cs220.evaluator.EnvironmentTestSuite, org.scalatest.tools.Framework$$anon$1@4d9c674e, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 556 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 36[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 6, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 36, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	cs220.evaluator.EvaluatorTestSuite[0m
+[0m[[0mdebug[0m] [0m	cs220.evaluator.ExprTestSuite[0m
+[0m[[0mdebug[0m] [0m	cs220.evaluator.ValueTestSuite[0m
+[0m[[0mdebug[0m] [0m	cs220.evaluator.EnvironmentTestSuite[0m
+[0m[[0mdebug[0m] [0m	cs220.Student28530995TestSuite[0m
+[0m[[0mdebug[0m] [0m	cs220.parser.ExprParserTestSuite[0m

@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mExprParserTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Parsing a number[0m[0m
+[0m[[0minfo[0m] [0m[32m- Parsing a variable[0m[0m
+[0m[[0minfo[0m] [0m[32m- Parsing an add expression[0m[0m
+[0m[[0minfo[0m] [0m[32m- Parsing an assignment expression[0m[0m
